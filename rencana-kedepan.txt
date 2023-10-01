@@ -3,3 +3,8 @@
 -mengikuti PMM3 
 -mendapatkan nilai yang terbaik di PMM3
 -dan menjadi yang terbaik di kampus asal maupun kampus penerima.
+-belajar frame work javascript
+ reacct js 
+ angular 
+ dan lain sebagainya
+
